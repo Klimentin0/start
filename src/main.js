@@ -1,1 +1,1 @@
-alert('testign');
+require('./main.scss');
